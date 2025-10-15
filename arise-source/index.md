@@ -26,8 +26,6 @@ Arise was built to show that you can take simple technology like Bash that is so
 
 90s websites may have been robust in their simplicity, but no one likes setting up a janky webserver on a computer in their closet. Arise is a modern cloud-native application that supports easy deployment to your cloud static site host of choice.
 
-Simply fork [Arise on Github](https://github.com/spectrasecure/arise), edit your site, and point your cloud vendor to your repository. The included CI workflow does all the hard work of building and deploying your site straight from the cloud.
-
 ## Get started with Arise
 
 Contacxt us on hello@posteireann.com
