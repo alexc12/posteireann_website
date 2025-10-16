@@ -28,4 +28,4 @@ Arise was built to show that you can take simple technology like Bash that is so
 
 ## Get started with Arise
 
-Contacxt us on hello@posteireann.com
+Contact us on hello@posteireann.com
