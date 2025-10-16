@@ -26,6 +26,6 @@ Arise was built to show that you can take simple technology like Bash that is so
 
 90s websites may have been robust in their simplicity, but no one likes setting up a janky webserver on a computer in their closet. Arise is a modern cloud-native application that supports easy deployment to your cloud static site host of choice.
 
-## Get started with Arise
+## Get started with Post Eireann
 
 Contact us on hello@posteireann.com
