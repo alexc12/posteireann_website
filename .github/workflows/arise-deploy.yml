@@ -18,6 +18,8 @@ defaults:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     name: Deploy Arise
     steps:
